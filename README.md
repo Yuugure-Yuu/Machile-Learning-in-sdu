@@ -1,1 +1,1 @@
-Some machine learning done in sdu.
+Some machine learning mini projects done in sdu.
